@@ -11,3 +11,9 @@ bai 2:
 bai 3: 
 
 bai 4:
+
+bai 5:
+
+bai 6:
+
+bai 7:

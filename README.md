@@ -2,7 +2,7 @@
 
 This repository contains my C++ programming exercises in Lab 4.
 
-Topics: 
+Topics: Operator overloading
 
 bai 1: 
 

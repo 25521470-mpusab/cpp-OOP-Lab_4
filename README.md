@@ -14,6 +14,6 @@ bai 4: Date
 
 bai 5: DaThuc
 
-bai 6:
+bai 6: Vector
 
-bai 7:
+bai 7: Matrix

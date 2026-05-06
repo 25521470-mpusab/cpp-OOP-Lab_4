@@ -8,9 +8,9 @@ bai 1: SoPhuc
 
 bai 2: PhanSo
 
-bai 3: 
+bai 3: Time
 
-bai 4:
+bai 4: Date
 
 bai 5:
 

@@ -4,9 +4,9 @@ This repository contains my C++ programming exercises in Lab 4.
 
 Topics: Operator overloading
 
-bai 1: 
+bai 1: SoPhuc
 
-bai 2: 
+bai 2: PhanSo
 
 bai 3: 
 

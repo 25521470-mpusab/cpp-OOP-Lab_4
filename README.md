@@ -12,7 +12,7 @@ bai 3: Time
 
 bai 4: Date
 
-bai 5:
+bai 5: DaThuc
 
 bai 6:
 
